@@ -1,10 +1,5 @@
 ---
 layout: post
-title: You're up and running!
+title: 5 ready-to-use Bootstrap form templates for your projects
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Bootstrap is the most popular and probably the most complete front-end web framework, which allows developers to fasten the creation of a website or web app. In this article, I have compiled 5 ready-to-use web forms for your Bootstrap projects. It’s time to save some time!
